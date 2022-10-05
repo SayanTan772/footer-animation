@@ -12,5 +12,5 @@ https://user-images.githubusercontent.com/92203629/193997625-05269b08-fcb7-4d9a-
 # Github Link 
 ### This page is hosted through *Github Pages*.
 ### Page link 👇🏻
-
+### https://sayantan772.github.io/footer-animation/
 
